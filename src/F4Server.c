@@ -253,7 +253,14 @@ int main(int argc, char * argv[]) {
     // Verifica lo stato della partita
     semOp(semid, (unsigned short)2, 1);     // turno giocatore 2
     semOp(semid, (unsigned short) 0, -1);   // attende
+    /*
+     * INIZIO COSE DEBUG
+     */
+    printf("Gioco in gestione del server in questo momento!");
     while(1){};
+    /*
+     * FINE COSE DEBUG
+     */
 
 
     /* Chiusura della shared_board memory */
