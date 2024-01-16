@@ -1,0 +1,6 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{3}{}%
+\contentsline {section}{\numberline {1.1}Schema semafori server-client-client}{3}{}%
+\contentsline {subsubsection}{Server}{3}{}%
+\contentsline {subsubsection}{Client}{3}{}%
